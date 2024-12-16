@@ -90,4 +90,12 @@ Variant Variant::parse_json(jsonlib::Json job) {
 ```
 **Este código aún no es funcional porque no has proporcionado la definición del tipo `Entorno` ni el código para `jsonlib::Json`. Asegúrate de incluir estas definiciones en tu proyecto antes de tratar de compilar.**
 ## Compilar
+### dependencias
+Instalar libreria json11 https://github.com/dropbox/json11
+- se puede clonar usando la terminal de clion usando - git clone https://github.com/dropbox/json11.git
+- posteriormente se debe modificar el CMAKEList para incluir la libreri.
+  Antes de compilar, Build para confirmar que se ha instalado correctamente la libreria JsON11.
+- La Jsonlib fue interpretada como un alias (namespace) de json11.
+  
+
 
