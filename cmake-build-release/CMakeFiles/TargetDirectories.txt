@@ -1,0 +1,4 @@
+C:/Users/navia/Documents/GitHub/Caso-Final-Integrador-4/cmake-build-release/CMakeFiles/json11.dir
+C:/Users/navia/Documents/GitHub/Caso-Final-Integrador-4/cmake-build-release/CMakeFiles/Caso_Final_Integrador_4.dir
+C:/Users/navia/Documents/GitHub/Caso-Final-Integrador-4/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/navia/Documents/GitHub/Caso-Final-Integrador-4/cmake-build-release/CMakeFiles/rebuild_cache.dir

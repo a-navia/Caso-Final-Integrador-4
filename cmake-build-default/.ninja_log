@@ -1,0 +1,12 @@
+# ninja log v6
+13	658	7560431362238686	CMakeFiles/Caso_Final_Integrador_4.dir/variant/Variant.cpp.obj	2061871df7978d6b
+2	390	7560434568922724	build.ninja	760f9955d6068cfe
+7	740	7560434400040830	CMakeFiles/Caso_Final_Integrador_4.dir/main.cpp.obj	b4e7637525ca55ec
+7	1304	7560429846954487	CMakeFiles/json11.dir/json11/json11.cpp.obj	ae7364284906390
+1304	1521	7560429859928431	libjson11.a	5deac1ffd284f0f7
+12	795	7560434400095989	CMakeFiles/Caso_Final_Integrador_4.dir/Variant.cpp.obj	e0bc6f1057ea1bd9
+795	1014	7560434407924112	Caso_Final_Integrador_4.exe	37169bbe11885e10
+6	482	7560435238668411	CMakeFiles/Caso_Final_Integrador_4.dir/main.cpp.obj	b4e7637525ca55ec
+482	704	7560435243441995	Caso_Final_Integrador_4.exe	37169bbe11885e10
+6	449	7560435426483840	CMakeFiles/Caso_Final_Integrador_4.dir/main.cpp.obj	b4e7637525ca55ec
+449	664	7560435430917487	Caso_Final_Integrador_4.exe	37169bbe11885e10
