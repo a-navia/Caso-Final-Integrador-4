@@ -2,6 +2,7 @@
 #include <iostream>
 
 int main() {
+
     Variant v1(Variant::Symbol, "hola mundo");
     Variant v2(1972.21);
     std::vector<Variant> list = { Variant(Variant::Symbol, "ABC"), Variant(9.81) };
